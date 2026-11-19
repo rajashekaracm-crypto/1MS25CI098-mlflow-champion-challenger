@@ -1,6 +1,6 @@
 # Mini Project: Champion–Challenger Model Comparison with Hugging Face and MLflow
-**Course:** Skill Lab (MLOps with MLflow) · Extension of Labs 4, 5, 8, 9, 10, 11 and 13
-**Student Name:** Rajashekara C M
+**Course:** Skill Lab (MLOps with MLflow) · Extension of Labs 4, 5, 8, 9, 10, 11 and 13                                      
+**Student Name:** Rajashekara C M                                                                                            
 **Student USN:** 1MS25CI098  
 **Repository Name:** `1MS25CI098-mlflow-champion-challenger`
 
